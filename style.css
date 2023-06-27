@@ -1,0 +1,19 @@
+body {
+    font-family: arial;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+span {
+    color: grey;
+}
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 30px;
+}
+a {
+    color: black;
+}
